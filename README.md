@@ -26,8 +26,7 @@ Energy consumption and range estimation under EPA and Indian driving cycles.
 
 **Project 03 – EV Powertrain & Motor Control *(upcoming)***
 Electric motor, inverter, and longitudinal torque control modeling.
-**
-Project 04 – HEV Energy Management *(upcoming)***
+**Project 04 – HEV Energy Management *(upcoming)***
 Rule-based and efficiency-optimized power split strategies for hybrid vehicles.
 
 ---
