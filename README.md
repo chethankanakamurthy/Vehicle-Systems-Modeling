@@ -38,3 +38,5 @@ Energy consumption and range estimation under EPA and Indian driving cycles.
 
 **Target Roles**
 Automotive Controls Engineer • Vehicle Dynamics Engineer • EV Powertrain Engineer
+
+_** This Repository is live and dynamic, I'll be adding many more projects in this ** __
